@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1336847559 source:/home/vov/LIFO41_TP/Animation.cpp
+	"opengl.h"
+	"Vec3f.h"
+	<time.h>
+	"Animation.h"
+	<cassert>
+
+1336847559 /home/vov/LIFO41_TP/opengl.h
+	<GL/gl.h>
+	<GL/glu.h>
+	"glut-3.7.6-bin_win/glut.h"
+	<GL/glut.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<unistd.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1336847558 /home/vov/LIFO41_TP/glut-3.7.6-bin_win/glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1336847559 /home/vov/LIFO41_TP/Vec3f.h
+
+1336847559 /home/vov/LIFO41_TP/Animation.h
+	"Vec3f.h"
+
+1338295390 source:/home/vov/LIFO41_TP/Image.cpp
+	<cstdlib>
+	<cassert>
+	<cstdio>
+	"Image.h"
+
+1336847559 /home/vov/LIFO41_TP/Image.h
+
+1338299036 source:/home/vov/LIFO41_TP/Scene.cpp
+	"Scene.h"
+	<GL/gl.h>
+	"opengl.h"
+	"Camera.h"
+
+1338294506 /home/vov/LIFO41_TP/Scene.h
+	"Animation.h"
+	"Image.h"
+
+1336847559 source:/home/vov/LIFO41_TP/Vec3f.cpp
+	"Vec3f.h"
+	<math.h>
+	<cstdio>
+
+1336847559 source:/home/vov/LIFO41_TP/opengl.cpp
+	"opengl.h"
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"Vec3f.h"
+	"Image.h"
+	"Scene.h"
+	"Camera.h"
+	"Animation.h"
+
+1337689365 /home/vov/LIFO41_TP/Camera.h
+	"Vec3f.h"
+
+1339496245 source:/home/vov/LIFO41_TP/Scene_MEDINA.cpp
+	"Scene.h"
+	<GL/gl.h>
+	"opengl.h"
+	"Camera.h"
+

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="Animation.h" open="1" top="0" tabpos="3">
+		<Cursor position="79" topLine="1" />
+	</File>
+	<File name="Camera.h" open="1" top="0" tabpos="4">
+		<Cursor position="392" topLine="0" />
+	</File>
+	<File name="Scene.h" open="1" top="0" tabpos="1">
+		<Cursor position="269" topLine="0" />
+	</File>
+	<File name="Scene_MEDINA.cpp" open="1" top="1" tabpos="6">
+		<Cursor position="17377" topLine="634" />
+	</File>
+	<File name="Vec3f.cpp" open="1" top="0" tabpos="2">
+		<Cursor position="434" topLine="48" />
+	</File>
+	<File name="opengl.cpp" open="1" top="0" tabpos="5">
+		<Cursor position="8166" topLine="291" />
+	</File>
+</CodeBlocks_layout_file>
